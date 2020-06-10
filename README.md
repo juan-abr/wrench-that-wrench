@@ -1,5 +1,5 @@
 # wrench-that-wrench
-Made for [Global Game Jam 2020](https://globalgamejam.org/2020/games/wrench-wrench-9)
+Made for [Global Game Jam 2020](https://globalgamejam.org/2020/games/wrench-wrench-9).
 
 You've lost your tools, but somethings wrong with the sewers! Find your tools and fix the problem, but watch out for mice! 
 
